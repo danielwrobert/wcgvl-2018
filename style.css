@@ -115,12 +115,12 @@ img {
 }
 
 a {
-	color: #aa0000;
+	color: #b1ca5c;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 input[type='text'],input[type='email'],textarea {
@@ -129,7 +129,7 @@ input[type='text'],input[type='email'],textarea {
 }
 
 input[type='submit'] {
-	background: #aa0000;
+	background: #b1ca5c;
 	border: 0 none;
 	border-radius: 1px;
 	color: #F5F0E3;
@@ -261,7 +261,7 @@ input[type='submit']:hover {
 }
 
 .main-navigation ul>li.menu-item-has-children>a:hover:after {
-	border-top-color: #aa0000;
+	border-top-color: #b1ca5c;
 }
 
 .main-navigation ul li:hover ul {
@@ -298,7 +298,7 @@ input[type='submit']:hover {
 }
 
 .main-small-navigation .menu-primary-container>ul {
-	border-bottom: 5px solid #aa0000;
+	border-bottom: 5px solid #b1ca5c;
 	display: none;
 }
 
@@ -381,7 +381,7 @@ input[type='submit']:hover {
 }
 
 #after-header-widgets .widget:nth-child(1) img {
-	border-top: 5px solid #aa0000;
+	border-top: 5px solid #b1ca5c;
 }
 
 #after-header-widgets .widget:nth-child(2) img {
@@ -389,7 +389,7 @@ input[type='submit']:hover {
 }
 
 #after-header-widgets .widget:nth-child(3) img {
-	border-top: 5px solid #aa0000;
+	border-top: 5px solid #b1ca5c;
 }
 
 #after-header-widgets .widget:nth-child(4) img {
@@ -449,8 +449,8 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 	background-repeat: no-repeat, no-repeat;
 	border-left: 0;
 	border-right: 0;
-	border-top: 5px solid #aa0000;
-	border-bottom: 5px solid #aa0000;
+	border-top: 5px solid #b1ca5c;
+	border-bottom: 5px solid #b1ca5c;
 	border-radius: 0;
 	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
 	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
@@ -486,7 +486,7 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 
 /*.entry-title:before {
 	content: '//';
-	color: #aa0000;
+	color: #b1ca5c;
 	margin-right: 8px;
 	margin-top: -5px;
 	font-size: 2.53125rem;
@@ -497,7 +497,7 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 }
 
 .entry-title a:hover {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 .entry-title+.entry-meta {
@@ -573,7 +573,7 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 }
 
 .entry-content a,.comment-content a {
-	color: #aa0000;
+	color: #b1ca5c;
 	text-decoration: none;
 	-moz-transition: color 300ms;
 	-o-transition: color 300ms;
@@ -582,7 +582,7 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 }
 
 .entry-content a:hover,.comment-content a:hover {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 .entry-content strong,.comment-content strong {
@@ -628,7 +628,7 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 }
 
 .entry-content label span,.comment-content label span {
-	color: #aa0000;
+	color: #b1ca5c;
 	font-size: .75rem;
 	padding-left: .33333rem;
 }
@@ -683,7 +683,7 @@ footer.entry-meta .sep {
 }
 
 .post-navigation .nav-previous a:hover,.post-navigation .nav-next a:hover {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 .post-navigation .nav-previous .meta-nav,.post-navigation .nav-next .meta-nav {
@@ -700,7 +700,7 @@ footer.entry-meta .sep {
 
 .comments-area {
 	background: white;
-	border-top: 5px solid #aa0000;
+	border-top: 5px solid #b1ca5c;
 	border-radius: 2px;
 	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
 	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
@@ -720,7 +720,7 @@ footer.entry-meta .sep {
 }
 
 .comments-area .comment-author .avatar {
-	border: 3px solid #aa0000;
+	border: 3px solid #b1ca5c;
 	border-radius: 100%;
 	float: right;
 }
@@ -749,7 +749,7 @@ footer.entry-meta .sep {
 }
 
 .comment-reply-link {
-	background: #aa0000;
+	background: #b1ca5c;
 	border: 0 none;
 	border-radius: 4px;
 	color: #e6f2f0;
@@ -766,7 +766,7 @@ footer.entry-meta .sep {
 }
 
 .comment-reply-link:hover {
-	background: #aa0000;
+	background: #b1ca5c;
 	color: white;
 }
 
@@ -830,7 +830,7 @@ footer.entry-meta .sep {
 }
 
 .widget li a {
-	color: #aa0000;
+	color: #b1ca5c;
 	text-decoration: none;
 	-moz-transition: color 300ms;
 	-o-transition: color 300ms;
@@ -839,7 +839,7 @@ footer.entry-meta .sep {
 }
 
 .widget li a:hover {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 .site-footer {
@@ -921,7 +921,7 @@ footer.entry-meta .sep {
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	color: #aa0000;
+	color: #b1ca5c;
 	cursor: pointer;
 	font-size: .75rem;
 	height: 78px;
@@ -934,7 +934,7 @@ footer.entry-meta .sep {
 }
 
 .site-info .site-info-network:hover {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 body div.sharedaddy h3.sd-title {
@@ -1009,14 +1009,14 @@ body div.sharedaddy h3.sd-title:before {
 }
 
 .wcpt-schedule th {
-	background: #aa0000;
+	background: #b1ca5c;
 	border: 1px solid white;
 	color: white;
 	font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .wcpt-schedule .wcpt-time {
-	background: #aa0000;
+	background: #b1ca5c;
 	border: 1px solid white;
 	color: white;
 	font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -1057,21 +1057,21 @@ body div.sharedaddy h3.sd-title:before {
 }
 
 .wcpt-schedule .wcpt-session-speakers a {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 .wcpt-schedule a {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 .wcpt-schedule a:hover {
-	color: #aa0000;
+	color: #b1ca5c;
 }
 
 .sponsor-level-title {
-	border-bottom: 5px solid #aa0000;
-	border-top: 5px solid #aa0000;
-	color: #aa0000;
+	border-bottom: 5px solid #b1ca5c;
+	border-top: 5px solid #b1ca5c;
+	color: #b1ca5c;
 	padding: .5rem;
 }
 
@@ -1158,7 +1158,7 @@ body div.sharedaddy h3.sd-title:before {
 .wcb_widget_sponsors .sponsor-level-title {
 	border-bottom: 0 none;
 	border-top: 0 none;
-	color: #aa0000;
+	color: #b1ca5c;
 	font-size: 1.5rem;
 	margin: 0;
 	padding: 0;
@@ -1178,7 +1178,7 @@ body div.sharedaddy h3.sd-title:before {
 }
 
 .tix_tickets_table th,.tix-ticket-form th {
-	border-bottom: 5px solid #aa0000;
+	border-bottom: 5px solid #b1ca5c;
 	font-family: 'Roboto', serif;
 	font-size: 1.125rem;
 	font-weight: 400;
@@ -1192,7 +1192,7 @@ body div.sharedaddy h3.sd-title:before {
 }
 
 strong.tix-ticket-title {
-	color: #aa0000;
+	color: #b1ca5c;
 	display: block;
 	font-family: 'Roboto', serif;
 	font-weight: 400;
@@ -1245,7 +1245,7 @@ td.tix-column-remaining {
 }
 
 .wcorg-speakers .wcorg-speaker img {
-	border: 5px solid #aa0000;
+	border: 5px solid #b1ca5c;
 }
 
 .wcorg-speaker-description img {
@@ -1274,7 +1274,7 @@ body.page #comments {
 
 /* Style for Dates and Location text widget */
 aside#text-3 {
-	background: #aa0000;
+	background: #b1ca5c;
 	background-image: url('https://2017.la.wordcamp.org/files/2017/04/white-chervon.png');
 	background-position: 50% 100%;
 	background-repeat: no-repeat;
