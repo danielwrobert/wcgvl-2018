@@ -186,7 +186,7 @@ input[type='submit']:hover {
 	bottom: -4.375rem;
 	font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	text-align: left;
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(0,0,0,0.3);
 }
 
 .main-navigation ul {
