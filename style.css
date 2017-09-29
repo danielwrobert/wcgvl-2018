@@ -229,6 +229,7 @@ input[type='submit']:hover {
 
 .main-navigation ul>li a:before {
 	/*content: url('https://2017.la.wordcamp.org/files/2017/04/chevron-spacer-2.png');*/
+	content: '';
 	margin-right: .75rem;
 }
 
@@ -292,7 +293,7 @@ input[type='submit']:hover {
 }
 
 .main-small-navigation {
-	background: #400000;
+	background: #111;
 	position: absolute;
 	width: 100%;
 }
@@ -317,7 +318,7 @@ input[type='submit']:hover {
 }
 
 .main-small-navigation a {
-	border-bottom: 1px solid #760000;
+	border-bottom: 1px solid #b1ca5c;
 	color: #ffffff;
 	display: block;
 	padding: .75rem 0;
@@ -902,7 +903,7 @@ footer.entry-meta .sep {
 }
 
 .site-info {
-	background: #4E100F;
+	background: #111;
 	padding: 3.79688rem 1rem;
 	text-align: center;
 }
