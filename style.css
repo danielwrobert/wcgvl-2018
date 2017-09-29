@@ -168,7 +168,7 @@ input[type='submit']:hover {
 }
 
 .site-header hgroup {
-	padding: 4% 0 .5%;
+	padding: 3% 0;
 	position: relative;
 }
 
@@ -229,7 +229,7 @@ input[type='submit']:hover {
 
 .main-navigation ul>li a:before {
 	/*content: url('https://2017.la.wordcamp.org/files/2017/04/chevron-spacer-2.png');*/
-	content: '';
+	content: '|';
 	margin-right: .75rem;
 }
 
