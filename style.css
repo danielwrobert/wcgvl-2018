@@ -228,7 +228,7 @@ input[type='submit']:hover {
 }
 
 .main-navigation ul>li a:before {
-	content: url('https://2017.la.wordcamp.org/files/2017/04/chevron-spacer-2.png');
+	/*content: url('https://2017.la.wordcamp.org/files/2017/04/chevron-spacer-2.png');*/
 	margin-right: .75rem;
 }
 
@@ -443,7 +443,7 @@ h1,h2,h3,h4,h5,h6 {
 
 article.post,article.page,article.wcb_speaker,article.wcb_session {
 	background-color: white;
-	background-image: url('https://2017.la.wordcamp.org/files/2017/04/wclax-2017-article-top-2.png'), url('https://2017.la.wordcamp.org/files/2017/04/wclax-2017-article-bottom.png');
+	/*background-image: url('https://2017.la.wordcamp.org/files/2017/04/wclax-2017-article-top-2.png'), url('https://2017.la.wordcamp.org/files/2017/04/wclax-2017-article-bottom.png');*/
 	background-position: 0 0, 50% 100%;
 	background-size: 47px, 124px;
 	background-repeat: no-repeat, no-repeat;
