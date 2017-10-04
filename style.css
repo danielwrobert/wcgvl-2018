@@ -193,6 +193,7 @@ input[type='submit']:hover {
 	margin: 0 auto;
 	max-width: 62rem;
 	padding: 0 1rem;
+	text-align: center;
 }
 
 .main-navigation ul li.current-menu-item>a,.main-navigation ul li.current_page_item>a,.main-navigation ul li.current_page_ancestor>a,.main-navigation ul li.current-menu-parent>a {
@@ -274,6 +275,7 @@ input[type='submit']:hover {
 	display: none;
 	padding: .66667rem 1.125rem;
 	position: absolute;
+	text-align: left;
 	top: 4.35em;
 	width: auto;
 }
