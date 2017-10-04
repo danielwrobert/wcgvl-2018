@@ -26,7 +26,6 @@ blockquote,q {
 
 blockquote:before,blockquote:after,q:before,q:after {
 	content: '';
-	content: none;
 }
 
 table {
@@ -151,7 +150,6 @@ input[type='submit']:hover {
 }
 
 .assistive-text {
-	clip: rect(1px 1px 1px 1px);
 	clip: rect(1px,1px,1px,1px);
 	position: absolute !important;
 }
