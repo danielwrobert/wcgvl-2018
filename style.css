@@ -270,7 +270,7 @@ input[type='submit']:hover {
 }
 
 .main-navigation ul ul {
-	background: rgba(52,0,2,0.75);
+	background: rgba(74,102,0,0.75);
 	display: none;
 	padding: .66667rem 1.125rem;
 	position: absolute;
