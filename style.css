@@ -192,8 +192,10 @@ iframe{
 }
 
 .main-navigation ul {
-	margin: 0 auto;
-	max-width: 62rem;
+	/*margin: 0 auto;*/
+	/*max-width: 62rem;*/
+	margin: 0 5%;
+	max-width: 100%;
 	padding: 0 1rem;
 	text-align: center;
 }
