@@ -149,6 +149,10 @@ input[type='submit']:hover {
 	color: white;
 }
 
+iframe{
+	max-width: 100%;
+}
+
 .assistive-text {
 	clip: rect(1px,1px,1px,1px);
 	position: absolute !important;
