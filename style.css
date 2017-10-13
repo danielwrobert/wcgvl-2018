@@ -814,6 +814,9 @@ footer.entry-meta .sep {
 #primary-sidebar input[type='submit'] {
 	display: inline-block;
 }
+#primary-sidebar .widget_search input[type='submit'] {
+	display: none;
+}
 
 #primary-sidebar #subscribe-submit {
 	text-align: center;
