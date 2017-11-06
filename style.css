@@ -1291,7 +1291,8 @@ body.page #comments {
 }
 
 /* Style for Dates and Location text widget */
-aside#text-3 {
+aside#text-3,
+aside#text-4 {
 	background: #b1ca5c;
 	background-image: none;
 	color: #ffffff;
@@ -1299,7 +1300,8 @@ aside#text-3 {
 	font-weight: 300;
 	padding-top: 1rem;
 }
-aside#text-3.widget_text {
+aside#text-3.widget_text,
+aside#text-4.widget_text {
 	padding-bottom: 1rem;
 	margin-bottom: 3.79688rem;
 }
