@@ -192,10 +192,7 @@ iframe{
 }
 
 .main-navigation ul {
-	/*margin: 0 auto;*/
-	/*max-width: 62rem;*/
 	margin: 0 5%;
-	max-width: 100%;
 	padding: 0 1rem;
 	text-align: center;
 }
@@ -220,6 +217,10 @@ iframe{
 	transition: color 300ms;
 }
 
+.main-navigation a[href*="tickets"] {
+  font-weight: bold;
+}
+
 @media screen and (min-width: 1024px) {
 	.main-navigation ul>li a {
 		font-size: 16px;
@@ -233,7 +234,6 @@ iframe{
 }
 
 .main-navigation ul>li a:before {
-	/*content: url('https://2017.la.wordcamp.org/files/2017/04/chevron-spacer-2.png');*/
 	content: '';
 	margin-right: 0;
 }
@@ -254,15 +254,16 @@ iframe{
 	position: relative;
 }
 
-.main-navigation ul>li.menu-item-has-children>a {
-	padding-right: 1rem;
+.main-navigation ul>li.menu-item-has-children>a:after {
+	content: '|';
+	margin-left: 1.5rem;
 }
 
-.main-navigation ul>li.menu-item-has-children>a:after {
+.main-navigation ul>li.menu-item-has-children:after {
 	content: '';
 	position: absolute;
 	top: 50%;
-	right: .2963rem;
+	right: 1.5rem;
 	margin-top: -2px;
 	height: 0;
 	width: 0;
@@ -270,7 +271,7 @@ iframe{
 	border-top-color: #ffffff;
 }
 
-.main-navigation ul>li.menu-item-has-children>a:hover:after {
+.main-navigation ul>li.menu-item-has-children:hover:after {
 	border-top-color: #b1ca5c;
 }
 
