@@ -241,6 +241,9 @@ iframe{
 	content: '|';
 	margin-left: .75rem;
 }
+.main-navigation .sub-menu > li a:after {
+	content: none;
+}
 
 .main-navigation ul>li a:hover {
 	color: rgba(255,255,255,0.5);
