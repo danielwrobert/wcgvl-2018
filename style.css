@@ -727,6 +727,41 @@ footer.entry-meta .sep {
 	margin-bottom: 1.6875rem;
 	padding: 2.53125rem;
 }
+.single-wcb_sponsor .comments-area {
+	display: none;
+}
+.single-wcb_sponsor #content {
+	background-color: white;
+	background-image: url(https://2018.greenville.wordcamp.org/files/2017/11/wcgvl-2018-article-tag-1.png);
+	background-position: 0 0;
+	background-size: 47px;
+	background-repeat: no-repeat;
+	border-left: 0;
+	border-right: 0;
+	border-top: 5px solid #b1ca5c;
+	border-bottom: 5px solid #b1ca5c;
+	border-radius: 0;
+	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
+	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
+	box-shadow: 0 0 12px rgba(126,99,88,0.1);
+	margin-bottom: 2.53125rem;
+	padding: 2.53125rem;
+	padding-top: 4rem;
+	padding-bottom: 5.53125rem;
+}
+.wcb_sponsor.has-post-thumbnail {
+	margin-top: 0.66667rem;
+}
+.wcb_sponsor.has-post-thumbnail .entry-header {
+	display: none;
+}
+
+@media screen and (min-width: 1024px) {
+	.single-wcb_sponsor #content {
+		background-size: 94px, 124px;
+		padding-top: 5.84375rem;
+	}
+}
 
 .comments-area .comments-title {
 	font-size: 2.25rem;
