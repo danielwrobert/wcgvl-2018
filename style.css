@@ -471,9 +471,9 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 	border-top: 5px solid #b1ca5c;
 	border-bottom: 5px solid #b1ca5c;
 	border-radius: 0;
-	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
+	/*-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
 	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	box-shadow: 0 0 12px rgba(126,99,88,0.1);
+	box-shadow: 0 0 12px rgba(126,99,88,0.1);*/
 	margin-bottom: 2.53125rem;
 	padding: 2.53125rem;
 	padding-top: 4rem;
@@ -485,6 +485,28 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 		background-size: 94px, 124px;
 		padding-top: 5.84375rem;
 	}
+}
+/**
+ * Separators for sponsor levels on Sponsors page
+ */
+div[class*=wcorg-sponsor-level] {
+    border-top: 30px solid #dedede;
+    position: relative;
+}
+div[class*=wcorg-sponsor-level]:before,
+div[class*=wcorg-sponsor-level]:after {
+    content: "";
+    border-top: 30px solid #dedede;
+    display: block;
+    position: absolute;
+    top: -30px;
+    width: 2.53125rem;
+}
+div[class*=wcorg-sponsor-level]:after {
+    right: -2.53125rem;
+}
+div[class*=wcorg-sponsor-level]:before {
+    left: -2.53125rem;
 }
 
 .entry-header {
