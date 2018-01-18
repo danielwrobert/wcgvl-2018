@@ -489,9 +489,11 @@ article.post,article.page,article.wcb_speaker,article.wcb_session {
 /**
  * Separators for sponsor levels on Sponsors page
  */
+.wcorg-sponsors {
+	margin-top: 2.25rem;
+}
 div[class*=wcorg-sponsor-level] {
 	border-top: 30px solid #dedede;
-	margin-top: 2.25rem;
 	padding-bottom: 2.25rem;
 	position: relative;
 }
